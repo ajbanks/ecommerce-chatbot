@@ -1,0 +1,8 @@
+pandas
+sentence-transformers==0.3.7
+openai
+langchain==0.0.148
+tiktoken
+faiss
+numpy
+faiss-cpu
